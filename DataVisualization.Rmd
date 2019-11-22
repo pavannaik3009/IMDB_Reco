@@ -4,7 +4,6 @@ output: html_notebook
 ---
 imdb <- read.csv("Desktop/IMDB/IMDBcleaned.csv", header=TRUE)
 ```{r}
-imdb <- read.csv("Desktop/IMDB/IMDBcleaned.csv", header=TRUE)
 str(imdb)
 ```
 
