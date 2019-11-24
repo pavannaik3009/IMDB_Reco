@@ -12,3 +12,12 @@ A **recommender system** is a subclass of information filtering system that seek
 
 
 In this project we have combined movie attributes such as genre, plot, director and cast to calculate its cosine similarity with another movie.
+
+
+## Web Scraping
+Tools: Python(Beautifulsoup, re)
+
+**re(regular expression)** is a special sequence of characters that helps you match or find other strings or 
+sets of strings, using a specialized syntax held in a pattern.
+
+**Beautifulsoup** is a library for pulling data out of HTML and XML files.
