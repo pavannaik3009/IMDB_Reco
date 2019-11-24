@@ -23,3 +23,9 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 sets of strings, using a specialized syntax held in a pattern.
 
 **Beautifulsoup** is a library for pulling data out of HTML and XML files.
+
+## Data Cleansing
+
+## Data Visualization
+
+## Recommender system
