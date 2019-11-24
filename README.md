@@ -28,4 +28,6 @@ sets of strings, using a specialized syntax held in a pattern.
 
 ## Data Visualization
 
+## Feature Extraction
+
 ## Recommender system
