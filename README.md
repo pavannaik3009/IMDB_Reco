@@ -17,6 +17,8 @@ In this project we have combined movie attributes such as genre, plot, director 
 ## Web Scraping
 Tools: Python(Beautifulsoup, re)
 
+Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
+
 **re(regular expression)** is a special sequence of characters that helps you match or find other strings or 
 sets of strings, using a specialized syntax held in a pattern.
 
