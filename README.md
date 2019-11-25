@@ -62,4 +62,6 @@ It can be seen that there are no missing values as we cleaned the data. The numb
 
 The useful features for Natural Language processing are: **Movie Name, Director, Cast, Plot and Genre.** Thus, we drop all the other features. 
 
+The Feature Seclection notebook can be found [here.](https://github.com/pavannaik3009/IMDB_Reco/blob/master/FeatureSelect.ipynb)
+
 ## Recommender system
