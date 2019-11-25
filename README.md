@@ -65,3 +65,5 @@ The useful features for Natural Language processing are: **Movie Name, Director,
 The Feature Seclection notebook can be found [here.](https://github.com/pavannaik3009/IMDB_Reco/blob/master/FeatureSelect.ipynb)
 
 ## Recommender system
+Tools: Python(Pandas, numpy, nltk, scikit-learn)
+
