@@ -37,7 +37,11 @@ We have scraped the **Movie Name, Director, Release Date, Running time, Country,
 
 
 ## Data Cleansing
-Tools: Python()
+Tools: Python(pandas, numpy, re)
+
+Objective: Have cleaner data for visualization and Model the recommender model.
+
+
 ## Data Visualization
 
 ## Feature Selection
