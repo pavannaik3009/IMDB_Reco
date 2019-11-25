@@ -24,6 +24,10 @@ sets of strings, using a specialized syntax held in a pattern.
 
 **Beautifulsoup** is a library for pulling data out of HTML and XML files.
 
+There are four main object types in Beautifulsoup: Beautifulsoup Object, tag object, NavigatableString object and Comment object.
+
+We need to call the HTML doc initially and set it equal to IMDB markup.
+<img width="1440" alt="Screen Shot 2019-11-21 at 3 13 12 PM" src="https://user-images.githubusercontent.com/43712046/69583705-1da93080-0fa1-11ea-98db-726c2c12d243.png">
 We have scraped the **Movie Name, Director, Release Date, Running time, Country, Language, IMDB Rating, Genre, Number of votes, Plot, Cast** from IMDB website. 
 
 
