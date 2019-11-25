@@ -39,7 +39,9 @@ We have scraped the **Movie Name, Director, Release Date, Running time, Country,
 ## Data Cleansing
 Tools: Python(pandas, numpy, re)
 
-The scraped data 
+The scraped data has many features that needs to be cleaned. It can be seen that there are missing values in Language with a 'See more' value and the language fro that movie is actually present in the Country column. Therefore, we need to coreect these my index mapping. Also, Release Dare has the values of the Country taht needs to be dropped and only the year needs to be extracted from dd/mm/yyyy format. The year is in string format that needs to be converted to integer values. The running time values needs to be converted to minutes from hh:mm. The IMDB rating is a float value and not a string value. It needs to be converted.
+
+The notebook for Data Wrangling can be found [here.](https://github.com/pavannaik3009/IMDB_Reco/blob/master/DataWrangling.ipynb)
 
 ## Data Visualization
 
