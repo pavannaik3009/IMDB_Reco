@@ -24,8 +24,11 @@ sets of strings, using a specialized syntax held in a pattern.
 
 **Beautifulsoup** is a library for pulling data out of HTML and XML files.
 
-## Data Cleansing
+We have scraped the **Movie Name, Director, Release Date, Running time, Country, Language, IMDB Rating, Genre, Number of votes, Plot, Cast** from IMDB website. 
 
+
+## Data Cleansing
+Tools: Python()
 ## Data Visualization
 
 ## Feature Selection
