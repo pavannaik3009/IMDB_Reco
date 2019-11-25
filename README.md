@@ -54,5 +54,9 @@ The notebook for Data Wrangling can be found [here.](https://github.com/pavannai
 ## Data Visualization
 
 ## Feature Selection
-<p align="center"><img width="500" alt="Screen Shot 2019-11-25 at 4 57 45 PM" src="https://user-images.githubusercontent.com/43712046/69585258-cb6a0e80-0fa4-11ea-89d9-7a0a421fd530.png"></p>
+
+Not all features from the dataset will be required to build a recommender system and we need to drop the unnecessary features.
+It can be seen that there are no missing values as we cleaned the data. The number of unique values in each feature is found to be:
+
+<p align="center"><img width="650" alt="Screen Shot 2019-11-25 at 4 57 45 PM" src="https://user-images.githubusercontent.com/43712046/69585258-cb6a0e80-0fa4-11ea-89d9-7a0a421fd530.png"></p>
 ## Recommender system
