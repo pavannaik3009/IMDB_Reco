@@ -87,3 +87,9 @@ We need to convert the ‘Bag of words’ into vector representation using Count
 <img width="272" alt="Screen Shot 2019-11-25 at 6 14 31 PM" src="https://user-images.githubusercontent.com/43712046/69588808-767fc580-0faf-11ea-8c7d-cea6b25eeda1.png">
 
 The model has recommended similar movies. :)
+
+The Recommender system notebook can be found [here.](https://github.com/pavannaik3009/IMDB_Reco/blob/master/README.md)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
