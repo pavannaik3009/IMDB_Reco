@@ -70,6 +70,7 @@ Tools: Python(Pandas, numpy, nltk, scikit-learn)
 #### Data pre-processing to remove stop words, punctuation, white space, and convert all words to lower case.
 The data has to be pre-processed using NLP to obtain only one column that contains all the attributes (in words) of each movie. We have used the Rake function to extract the most relevant words from whole sentences in the ‘Plot’ column. In order to do this, we applied this function to each row under the ‘Plot’ column and assigned the list of key words to a new column ‘Key_words’.
 #### Create word representation by combining column attributes to Bag of words.
+4 columns ‘Genre’, ‘Director’, ‘Actors’ and ‘Key_words’ are combined into a new column ‘Bag_of_words’.
 
 #### Create vector representation for Bag_of_words, and create the similarity matrix.
 
