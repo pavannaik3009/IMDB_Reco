@@ -72,6 +72,9 @@ The data has to be pre-processed using NLP to obtain only one column that contai
 #### Create word representation by combining column attributes to Bag of words.
 4 columns ‘Genre’, ‘Director’, ‘Actors’ and ‘Key_words’ are combined into a new column ‘Bag_of_words’.
 
+<img width="836" alt="Screen Shot 2019-11-25 at 6 16 25 PM" src="https://user-images.githubusercontent.com/43712046/69588876-b34bbc80-0faf-11ea-95b2-9e171b195338.png">
+<img width="702" alt="Screen Shot 2019-11-25 at 6 17 10 PM" src="https://user-images.githubusercontent.com/43712046/69588922-ce1e3100-0faf-11ea-8db2-00116fce10cb.png">
+
 #### Create vector representation for Bag of words, and create the similarity matrix.
 We need to convert the ‘Bag of words’ into vector representation using CountVectorizer, which is a simple frequency counter for each word in the ‘Bag of words’ column. Once we had the matrix containing the count for all words, we applied the cosine_similarity function to compare similarities between movies.
 
