@@ -73,5 +73,7 @@ The data has to be pre-processed using NLP to obtain only one column that contai
 4 columns ‘Genre’, ‘Director’, ‘Actors’ and ‘Key_words’ are combined into a new column ‘Bag_of_words’.
 
 #### Create vector representation for Bag_of_words, and create the similarity matrix.
+We need to convert the ‘Bag_of_words’ into vector representation using CountVectorizer, which is a simple frequency counter for each word in the ‘Bag_of_words’ column. Once we had the matrix containing the count for all words, we applied the cosine_similarity function to compare similarities between movies.
+<p align="center><img width="631" alt="Screen Shot 2019-11-25 at 6 09 53 PM" src="https://user-images.githubusercontent.com/43712046/69588625-d75ace00-0fae-11ea-9e45-66402c45131e.png"></p>
 
 #### Run and test the recommender model.
