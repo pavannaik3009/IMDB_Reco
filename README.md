@@ -69,6 +69,8 @@ Tools: Python(Pandas, numpy, nltk, scikit-learn)
 
 #### Data pre-processing to remove stop words, punctuation, white space, and convert all words to lower case.
 The data has to be pre-processed using NLP to obtain only one column that contains all the attributes (in words) of each movie. We have used the Rake function to extract the most relevant words from whole sentences in the ‘Plot’ column. In order to do this, we applied this function to each row under the ‘Plot’ column and assigned the list of key words to a new column ‘Key_words’.
+<img width="841" alt="Screen Shot 2019-11-25 at 6 19 07 PM" src="https://user-images.githubusercontent.com/43712046/69589004-13426300-0fb0-11ea-92c5-6fee2b48af11.png">
+
 #### Create word representation by combining column attributes to Bag of words.
 4 columns ‘Genre’, ‘Director’, ‘Actors’ and ‘Key_words’ are combined into a new column ‘Bag_of_words’.
 
